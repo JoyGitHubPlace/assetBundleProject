@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 812423697
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: aa.bb
+      Dependencies: {}
+    Info_1:
+      Name: aa.cc
+      Dependencies: {}
